@@ -1,0 +1,20 @@
+{
+  "name": "gulp-automation-wp",
+  "version": "1.0.0",
+  "description": "This automation tool is created to make WordPress theme development a breeze",
+  "main": "index.php",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Zaman.Q",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "browser-sync": "^2.26.7",
+    "gulp": "4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "jshint": "^2.11.0"
+  }
+}
